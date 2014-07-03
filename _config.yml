@@ -1,4 +1,4 @@
-name: Christmas Recipes 
+name: Christmas Recipes
 markdown: redcarpet
 pygments: true
-baseurl: http://sundlee.github.com/christmas-recipes
+baseurl: /christmas-recipes
